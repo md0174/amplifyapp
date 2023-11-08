@@ -15,7 +15,7 @@ function Navbar() {
                         <a class="nav-link" href="#">Card</a>
                     </li>
                     <li class="current">
-                        <a class="nav-link" href="#">Current</a>
+                        <a class="nav-link" href="#">Contact</a>
                     </li>
                 </ul>
             </div>
